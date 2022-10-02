@@ -1,4 +1,4 @@
-#Pro club leveling up glitch for volta
+# Pro club leveling up glitch for volta
 
 Requirements: install all the requirements from the txt file, I recommend using pycharm for this
 
